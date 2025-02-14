@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Real Estate</string>
+    <string name="home">Home</string>
+    <string name="chats">Chats</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chats_list">Chats List</string>
+    <string name="favorite_list">Favorite List</string>
+    <string name="skip">Skip Now</string>
+    <string name="phone_number">Continue with phone number</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="email">Email</string>
+    <string name="google">Google</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">No Account? <b>Register</b></string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="have_account_login">Have Account? <b>Login</b></string>
+    <string name="phone_num">Phone Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="otp">OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="didn_t_receive_otp_resend">Didn\'t Receive OTP? <b>Resend</b></string>
+    <string name="forgot_password_recover">Forgot Password? <b>Recover</b></string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password_send_password">Forgot Password? Enter your register email, we will send password recovery instructions to it.</string>
+    <string name="submit">Submit</string>
+</resources>
